@@ -1,0 +1,106 @@
+
+#gtr{
+border: 3px solid ;
+background-color: blue;
+}
+
+.ret{
+display: flex;
+margin-left: 100px;
+margin-top: -48px ;
+gap: 30px;
+text-decoration: none;
+}
+
+.ret a{
+font-size: 15px;
+text-align: center;
+text-decoration: none;
+color: black;
+border: 2px solid;
+width: 20%;
+background-color: chartreuse;
+}
+
+.uui{
+    margin-top: 40px;
+}
+
+.uui h2{
+    color: crimson;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin-top: -154px;
+    font-size: 29px;
+}
+
+.spirit h2{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 400px;
+}
+
+.not-1 p{
+    margin-top: -200px;
+    font-size: 20px;
+    color: darkslateblue;
+    font-weight: 590px;
+    text-align: center;
+}
+
+.hter{
+    display: flex;
+    gap: 20px;
+    
+}
+
+.nory:hover{
+  box-shadow: 10px 10px 10px ;
+}
+
+.nory{
+    border: 2px solid;
+    padding: 6px;
+}
+
+.nbt{
+    border: 2px solid; 
+    width: 100px;
+    margin-top: 10px;
+}
+
+.nbt:hover{
+    box-shadow: 10px 10px 10px;
+}
+
+.Nbrtq{
+    border: 2pz solid;
+    background-color:rgb(58, 76, 77) ;
+}
+
+.Nbrtq h1{
+    text-align: center;
+    font-size: 22px;
+}
+
+.Nbrtq label {
+    font-size: 22px;
+}
+
+.Nbrtq input{
+    width: 80%;
+    height: 3vh;
+}
+
+#Messages{
+    height: 90px;
+    margin-left: 20px;
+    width: 80%;
+}
+
+.nvht{
+    font-size: 7px;
+    display: flex;
+}
+
+
